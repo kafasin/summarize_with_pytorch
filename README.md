@@ -1,2 +1,2 @@
-# summarize_with_pytorch
+# Summarize text with PyTorch
 Summarising a text with PyTorch
